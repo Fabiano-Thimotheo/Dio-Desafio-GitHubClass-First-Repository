@@ -1,1 +1,17 @@
 Teste de aula GITHUB, 1o Desafio. Criando um repositório no GITHUB
+
+A) incluindo um arquivo novo gerado na minha maquina à minha nuvem no GITHUB. 
+
+B) Alterando esse arquivo e atualizando na nuvem do GITHUB
+
+Passo a Passo:
+
+1) Abrir GIT Bash dentro da pasta Principal, onde constam as pastas novas que serão enviadas à nuvem;
+
+2) git status
+
+3) git add -a OU git add .    // Ponto final significa TUDO, igual o "-a"
+
+4) git commit -m "MENSAGEM EXPLICANDO A ALTERAÇÃO OU DO QUE SE TRATA O ARQUIVO no COMMIT"   //TIPO um LOG do Commit
+
+5) git push origin main
